@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">uts</string>
+
+    <string-array name="drinks_array">
+        <item>Coca Cola</item>
+        <item>Sprite</item>
+        <item>Fanta</item>
+        <item>Pepsi</item>
+        <item>7UP</item>
+        <item>Evian</item>
+    </string-array>
+    <string-array name="drinks_price">
+        <item>Rp8.000</item>
+        <item>Rp7.000</item>
+        <item>Rp8.000</item>
+        <item>Rp7.000</item>
+        <item>Rp10.000</item>
+        <item>Rp16.000</item>
+    </string-array>
+</resources>
